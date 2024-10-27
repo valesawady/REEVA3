@@ -12,7 +12,7 @@
         "nombre": "Ensalada de Fruta",
         "descripcion": "Creé la identidad del estudio de diseño OVA, inspirado en la eficiencia, calidad y creatividad. El nombre surge de un juego de vocales basado en los nombres de sus fundadoras. Las tarjetas de presentación en blanco y negro reflejan elegancia, simplicidad y profesionalismo, reforzando su imagen de marca.",        
         "fecha": "2023",
-        "signo": ["Vegana", "Vegetariana","Sin Gluten","Dairy-free"],
+        "signo": "Vegana""Vegetariana",
         "foto": "https://github.com/user-attachments/assets/5b2c9c1a-4a78-4ba5-affd-7ae7896ae4b6",
         "fotos": ["Ova-1.jpg","Ova-2.jpg","Ova-3.jpg"],
         "github": "https://github.com/valesawady"
@@ -30,7 +30,7 @@
         "nombre": "Granola",
         "descripcion": "Creé el branding y la identidad de Fliegtravel, una marca que transforma la elegancia y la innovación en experiencias de viaje inolvidables. El diseño refleja la sofisticación y exclusividad que caracteriza a la marca, utilizando una paleta de colores en blanco y negro que evoca simplicidad y profesionalismo. El logotipo transmite un sentido de lujo y aventura, asegurando que cada elemento de la marca refleje la experiencia única y personalizada que se ofrece.",
         "fecha": "2024",
-        "signo": ["Vegana", "Vegetariana","Sin Gluten","Dairy-free"],
+        "signo": "Vegana",
         "foto": "https://github.com/user-attachments/assets/c494b2c7-74e3-4018-ba28-1e8544559019",
         "fotos": ["Fliegtravel-1.jpg","Fliegtravel-2.jpg","Fliegtravel-3.jpg"],
         "github": "https://github.com/valesawady"
@@ -57,7 +57,7 @@
         "nombre": "PadThai",
         "descripcion": "En colaboración con Teresita Gutiérrez, Trinidad Jerez, Cristina Miranda y Francisca Valenzuela, creamos el afiche Construyendo Chile, una representación visual que celebra la diversidad y el aporte multicultural en la construcción de nuestro país. Inspirado en el icónico personaje Condorito, nuestro afiche muestra a condoritos de diversas nacionalidades, cada uno representando una cultura distinta.",
         "fecha": "2022",
-        "signo": ["Vegetariana","Sin Gluten"],
+        "signo": "Sin Gluten",
         "foto": "https://github.com/user-attachments/assets/62b1fe30-523b-4429-bb9a-059c3457e748",
         "fotos": ["Chile-1.jpg","Chile-2.jpg","Chile-3.jpg"],
         "github": "https://github.com/valesawady"
@@ -84,7 +84,7 @@
         "nombre": "Smothie Bowl",
         "descripcion": "Este proyecto propone el uso de Shrilk, un material polimérico biodegradable, como solución para reducir el impacto ambiental del empaque. El diseño se enfoca en la seguridad alimentaria, cumpliendo con normas de etiquetado y ambientales. Además, se destaca por ser un material de bajo costo, resistente a la humedad, y fácil de moldear, lo que permite una aplicación eficiente en el empaque de productos alimenticios.",
         "fecha": "2023",
-        "signo": ["Vegana", "Vegetariana","Sin Gluten","Dairy-free"],
+        "signo": "Vegana",
         "foto": "https://github.com/user-attachments/assets/75e7dd93-0a4d-4904-b540-e494e4ffa5b7",
         "fotos": ["Churu-1.jpg","Churu-2.jpg","Churu-3.jpg"],
         "github": "https://github.com/valesawady"
