@@ -13,7 +13,8 @@ Hamburguesas
 Pancackes
 ![pancackes](https://github.com/user-attachments/assets/11c950db-b87f-46f5-82f8-37566f201086)
 Padthai
-![padthai](https://github.com/user-attachments/assets/c644eea6-99be-4570-a9fd-a3c80a29766c)
+![padthai](https://github.com/user-attachments/assets/62b1fe30-523b-4429-bb9a-059c3457e748)
+
 Pollo
 ![pollo](https://github.com/user-attachments/assets/2355ff10-7184-4a54-a990-9119ae006551)
 Quiche
