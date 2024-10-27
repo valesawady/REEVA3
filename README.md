@@ -8,7 +8,8 @@ Ensalada de frutilla
 Granola
 ![granola](https://github.com/user-attachments/assets/c494b2c7-74e3-4018-ba28-1e8544559019)
 Hamburguesas
-![hamburguesas](https://github.com/user-attachments/assets/2ee5ae98-dc8f-49f4-b1bd-525320bf8a30)
+![hamburguesas](https://github.com/user-attachments/assets/1e495f89-026e-493a-9c19-0dd887c72cc6)
+
 Pancackes
 ![pancackes](https://github.com/user-attachments/assets/11c950db-b87f-46f5-82f8-37566f201086)
 Padthai
