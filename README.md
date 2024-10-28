@@ -45,3 +45,8 @@ Stollen
 Konig
 ![konig](https://github.com/user-attachments/assets/8e0e69e1-1a7f-4e8c-a1c7-ea80a02da355)
 
+Wildschwein
+![Wildschwein](https://github.com/user-attachments/assets/bd468207-caa2-482c-bfbe-229e0f7c342f)
+
+SauerKraut
+![sauerkraut](https://github.com/user-attachments/assets/7ef300aa-1243-42d6-b24d-57c191e2c3da)
