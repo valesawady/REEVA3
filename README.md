@@ -39,4 +39,9 @@ Berliner
 
 Kasekuchen
 ![kuchen](https://github.com/user-attachments/assets/fcb634be-bc6f-4cca-bb02-e15e3b6fb1a2)
+Stollen
+![Stollen](https://github.com/user-attachments/assets/73a716f3-122b-4470-ac5c-5d6a391a9322)
+
+Konig
+![konig](https://github.com/user-attachments/assets/8e0e69e1-1a7f-4e8c-a1c7-ea80a02da355)
 
