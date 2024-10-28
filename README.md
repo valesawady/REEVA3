@@ -21,3 +21,17 @@ Quiche
 ![quiche](https://github.com/user-attachments/assets/0d695a46-5f53-42c8-aeed-c6f5ece49fd5)
 SmothieBowl
 ![smothiebowl](https://github.com/user-attachments/assets/75e7dd93-0a4d-4904-b540-e494e4ffa5b7)
+
+Ensalada de papa
+![Papa](https://github.com/user-attachments/assets/36268a97-29b8-4426-b39f-72c55be914a0)
+Currywurst
+![Currywurst](https://github.com/user-attachments/assets/2cfd7cc6-11b7-4424-bf86-725dda5a8da9)
+Pretzel
+![Pretzel](https://github.com/user-attachments/assets/62e3ff7f-43d4-43f7-a456-f9f7bc3cd04f)
+Rindergulasch
+![Rindergulasch](https://github.com/user-attachments/assets/9be464e4-4317-4da9-b8da-608bb8e1ca94)
+Quarkins
+![Quarkins](https://github.com/user-attachments/assets/1ea00467-6f0b-4a7e-a276-7281c3cec57a)
+Selvanegra
+![selva](https://github.com/user-attachments/assets/29937ab0-5986-46ed-bcfe-b39240e758f5)
+
