@@ -1,92 +1,110 @@
 [
     {
-        "nombre": "Chuleta",
-        "descripcion": "En colaboración con Josefina Santibáñez, Sofía Opazo y Constanza Velásquez, diseñamos una nueva fachada para la escuela de la Corporación Yunus en Peñalolén. Nos enfocamos en mejorar la orientación, seguridad y comunicación visual, creando un portal de entrada con listones que abstraen la Cordillera de los Andes, señalética clara y sistemas de iluminación sutil, creando un acceso seguro y visualmente atractivo que realza la identidad de Yunus.",
-        "fecha": "2023",
-        "signo": "Sin Gluten",
-        "foto": "https://github.com/user-attachments/assets/22992d77-9338-4637-938b-e2c6e1ed39fc",
-        "fotos": ["Yunus-1.jpg","Yunus-2.jpg","Yunus-3.jpg"],
-        "github": "https://github.com/valesawady"
-    },
-    {
-        "nombre": "Ensalada de Fruta",
-        "descripcion": "Creé la identidad del estudio de diseño OVA, inspirado en la eficiencia, calidad y creatividad. El nombre surge de un juego de vocales basado en los nombres de sus fundadoras. Las tarjetas de presentación en blanco y negro reflejan elegancia, simplicidad y profesionalismo, reforzando su imagen de marca.",        
-        "fecha": "2023",
-        "signo": "Vegana",
-        "foto": "https://github.com/user-attachments/assets/5b2c9c1a-4a78-4ba5-affd-7ae7896ae4b6",
-        "fotos": ["Ova-1.jpg","Ova-2.jpg","Ova-3.jpg"],
-        "github": "https://github.com/valesawady"
-    },
-    {
-        "nombre": "Ensalada con Frutilla",
-        "descripcion": "En colaboración con Martina Santamaría y Josefina Santibáñez, creamos Maiuu, una casa de gatos inspirada en un dodecaedro de madera MDF. Su diseño incluye un logo tallado en referencia a la palabra hawaiana, que significa garras.  Las piezas se ensamblan con uniones impresas en 3D de PLA, garantizando resistencia y durabilidad. El proceso incluyó corte CNC, lijado y ensamblaje, resultando en una estructura estética y funcional.",
-        "fecha": "2023",
-        "signo": "Vegetariana",
-        "foto": "https://github.com/user-attachments/assets/448603c1-646d-455c-b09f-5f37de839cbd",
-        "fotos": ["Maiuu-1.jpg","Maiuu-2.jpg","Maiuu-3.jpg"],
-        "github": "https://github.com/valesawady"
-    },
-    {
-        "nombre": "Granola",
-        "descripcion": "Creé el branding y la identidad de Fliegtravel, una marca que transforma la elegancia y la innovación en experiencias de viaje inolvidables. El diseño refleja la sofisticación y exclusividad que caracteriza a la marca, utilizando una paleta de colores en blanco y negro que evoca simplicidad y profesionalismo. El logotipo transmite un sentido de lujo y aventura, asegurando que cada elemento de la marca refleje la experiencia única y personalizada que se ofrece.",
+        "nombre": "Brezel",
+        "descripcion": "Ingredientes:\n\n500 g harina\n10 g sal\n1 cdita. azúcar\n1 sobre levadura seca\n250 ml agua tibia\n30 g mantequilla\n1 litro de agua\n3 cdas. bicarbonato de sodio\nSal gruesa\n\nInstrucciones:\n\nMezcla harina, sal, azúcar y levadura. Agrega agua y mantequilla, amasa. Deja reposar 30-40 min.\n\nForma cuerdas de masa, haz lazos de pretzel.\n\nHierve agua con bicarbonato. Sumerge cada pretzel 20-30 seg.\n\nHornea a 220°C por 15-20 min.",
         "fecha": "2024",
-        "signo": "Vegana",
-        "foto": "https://github.com/user-attachments/assets/c494b2c7-74e3-4018-ba28-1e8544559019",
-        "fotos": ["Fliegtravel-1.jpg","Fliegtravel-2.jpg","Fliegtravel-3.jpg"],
+        "signo": "aperitivos",
+        "foto": "https://github.com/user-attachments/assets/62e3ff7f-43d4-43f7-a456-f9f7bc3cd04f",
+        "fotos": ["Brezel-0.jpg","Brezel-1.jpg","Brezel-2.jpg"],
         "github": "https://github.com/valesawady"
     },
     {
-        "nombre": "Hamburguesas",
-        "descripcion": "Inspirada en los diseños multifuncionales y futuristas de Joe Colombo, VACURVE destaca por su estética curva y modular. Su mango desmontable funciona como una base, maximizando la eficiencia del espacio y demostrando la versatilidad del diseño. La maqueta a escala, elaborada en madera, captura la ergonomía y funcionalidad del producto, reflejando la fusión entre estilo y practicidad.",
-        "fecha": "2022",
-        "signo": "Dairy-free",
-        "foto": "https://github.com/user-attachments/assets/1e495f89-026e-493a-9c19-0dd887c72cc6",
-        "fotos": ["Vacurve-1.jpg","Vacurve-2.jpg","Vacurve-3.jpg"],
+        "nombre": "Kartoffelsalat",
+        "descripcion": "Ingredientes:\n\n1 kg de papas\n100 g de tocino\n1 cebolla mediana\n150 ml de caldo de pollo\n3 cdas. de vinagre\n2 cdas. de mostaza\nSal y pimienta al gusto\nCebollino picado\n\nInstrucciones:\n\nCuece las papas con cáscara hasta que estén tiernas. Pela y corta en rodajas.\n\nFríe el tocino hasta que esté crujiente. Retira y reserva.\n\nEn la misma sartén, sofríe la cebolla picada hasta que esté transparente.\n\nAgrega el caldo de pollo, vinagre y mostaza. Cocina por 5 minutos.\n\nMezcla las papas con el tocino y vierte la salsa caliente encima. Añade sal, pimienta y cebollino.\n\nSirve caliente o frío.",        
+        "fecha": "2024",
+        "signo": "guarniciones",
+        "foto": "https://github.com/user-attachments/assets/36268a97-29b8-4426-b39f-72c55be914a0",
+        "fotos": ["Kartoffel-0.jpg","Kartoffel-1.jpg","Kartoffel-2.jpg"],
         "github": "https://github.com/valesawady"
     },
     {
-        "nombre": "Pancackes",
-        "descripcion": "En colaboración con Josefina Rojas, Francisca Valenzuela y Antonia Widmer, diseñamos 4 que late, un picnic inspirado en el amor y la amistad, enfocado en crear y fortalecer vínculos personales de manera sustentable. El proyecto, orientado a citas dobles, combina conexión, naturaleza y diversión. Utilizamos un diseño circular, con logotipo central y elementos organizados en contenedores de cartón, cortados con láser para equilibrar funcionalidad y estética.",
+        "nombre": "Rindergulasch",
+        "descripcion": "Ingredientes:\n\n600 g de carne de ternera para guisar\n30 g de harina\n30 ml de aceite de oliva\n1 cebolla\n330 ml de cerveza rubia alemana\n20 g de azúcar moreno\n15 g de tomate concentrado\n500 ml de caldo de carne\nSal y pimienta negra\n\nElaboración:\n\nCorta la carne en dados, salpimenta y espolvorea con harina. Calienta el aceite en una sartén y dora la carne. Retira la carne y reserva. Dora la cebolla picada y luego agrega la carne y la cebolla en una fuente para horno. Precalienta el horno a 170°C. En una olla, mezcla la cerveza, el azúcar moreno, el concentrado de tomate y el caldo. Lleva a ebullición, vierte sobre la carne y hornea durante dos horas o hasta que esté tierna al pincharla.",
+        "fecha": "2024",
+        "signo": "principal",
+        "foto": "https://github.com/user-attachments/assets/9be464e4-4317-4da9-b8da-608bb8e1ca94",
+        "fotos": ["Gulasch-0.jpg","Gulasch-1.jpg","Gulasch-2.jpg"],
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "Currywurst",
+        "descripcion": "Ingredientes para 2 personas:\n\n1 cebolla pequeña\n1 diente de ajo\n250 g de tomate troceado natural\nUn poco de azúcar\n25 g de puré de manzana o manzana rallada\n2 ml de vinagre de manzana\n1 cucharadita de mostaza\n1 cucharadita o más de curry molido\nSal\nPimienta\nAceite de oliva\n4 salchichas bratwurst\n\nElaboración:\n\nPicar la cebolla y el diente de ajo. Calentar aceite de oliva en una sartén y sofreír ambos. Añadir el tomate con azúcar y dejar reducir. Incorporar puré y vinagre de manzana, mostaza y curry. Salpimentar y cocinar a fuego suave hasta reducir. Triturar la salsa y devolverla a la sartén para espesar. Mientras, cocinar las salchichas a fuego medio en una plancha. Rectificar de sal y azúcar la salsa y servir.",
+        "fecha": "2024",
+        "signo": "aperitivos",
+        "foto": "https://github.com/user-attachments/assets/2cfd7cc6-11b7-4424-bf86-725dda5a8da9",
+        "fotos": ["Curry-0.jpg","Curry-1.jpg","Curry-2.jpg"],
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "Schwarzwaldtorte",
+        "descripcion": "Ingredientes:\n\n4 huevos\n150 g de azúcar\n100 g de harina\n50 g de cacao en polvo\n500 ml de nata para montar\n200 g de cerezas en almíbar\n50 ml de licor de cereza\n100 g de chocolate rallado\n\nElaboración:\n\nBatir huevos con azúcar. Añadir harina y cacao, mezclar. Hornear a 180°C por 25-30 min.\n\nMontar la nata. Cortar el bizcocho, humedecer con licor, rellenar con nata y cerezas. Cubrir con más nata y decorar con chocolate rallado.",
         "fecha": "2022",
-        "signo": "Dairy-free",
-        "foto": "https://github.com/user-attachments/assets/11c950db-b87f-46f5-82f8-37566f201086",
+        "signo": "postres",
+        "foto": "https://github.com/user-attachments/assets/29937ab0-5986-46ed-bcfe-b39240e758f5",
+        "fotos": ["Torte-0.jpg","Torte-1.jpg","Torte-2.jpg"],
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "Quarkins",
+        "descripcion": "Ingredientes:\n\n4 huevos M\n200 g de queso quark no desnatado escurrido\n10 g de azúcar vainillado\n50 g de azúcar\n30 ml de agua\n250 g de harina\n2 cucharaditas de levadura química\n1 pizca de sal\nAceite para freír\nAzúcar y canela para rebozar\n\nElaboración:\n\nColocar en un recipiente los huevos, el azúcar vainillado, el azúcar y el agua. Batir hasta obtener una mezcla cremosa. Añadir el queso y batir. Incorporar la harina tamizada con levadura y sal, batiendo ligeramente. Calentar aceite a 170°C. Freír pequeñas porciones con dos cucharillas. Dejar escurrir sobre papel de cocina y rebozar en azúcar con canela.",       
+        "fecha": "2023",
+        "signo": "postres",
+        "foto": "https://github.com/user-attachments/assets/1ea00467-6f0b-4a7e-a276-7281c3cec57a",
+        "fotos": ["Quarkins-0.jpg","Quarkins-1.jpg","Quarkins-2.jpg"],
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "Berliner",
+        "descripcion": "Ingredientes:\n\n50 ml de leche tibia\n20 g de levadura fresca\n250 g de harina de fuerza\n1 huevo\n1 yema\n25 g de azúcar\n2 ml de esencia de vainilla\n1 pizca de sal\n25 g de mantequilla blanda\nAceite para freír\nMermelada al gusto\nAzúcar glasé o granulado\n\nElaboración:\n\nDeshacer la levadura en la leche tibia, añadir 75 g de harina y reposar 20-30 min. Batir el huevo, la yema, azúcar, vainilla y sal, añadir la mantequilla y la masa de levadura. Amasar y dejar levar. Formar bolas, reposar 30 min. Freír a 160-170°C. Rellenar con mermelada y espolvorear con azúcar.",
+        "fecha": "2022",
+        "signo": "postres",
+        "foto": "https://github.com/user-attachments/assets/cfd0ebde-1e4d-417d-b91e-47e52b634bd1",
         "fotos": ["Picnic-1.jpg","Picnic-2.jpg","Picnic-3.jpg"],
         "github": "https://github.com/valesawady"
     },
     {
-        "nombre": "PadThai",
-        "descripcion": "En colaboración con Teresita Gutiérrez, Trinidad Jerez, Cristina Miranda y Francisca Valenzuela, creamos el afiche Construyendo Chile, una representación visual que celebra la diversidad y el aporte multicultural en la construcción de nuestro país. Inspirado en el icónico personaje Condorito, nuestro afiche muestra a condoritos de diversas nacionalidades, cada uno representando una cultura distinta.",
+        "nombre": "Wildschweinkopfsalat",
+        "descripcion": "Ingredientes:\n\n100 g de cabeza de jabalí (morros de cerdo)\n1/4 de cebolla\nAceite de oliva virgen extra\nVinagre\nPistachos\n\nElaboración:\n\nCortar la cabeza de jabalí en lonjas. Cortar la cebolla en juliana fina y colocarla sobre los tacos. Aliñar con aceite de oliva y vinagre al gusto. Añadir pistachos para decorar.",
         "fecha": "2022",
-        "signo": "Sin Gluten",
-        "foto": "https://github.com/user-attachments/assets/62b1fe30-523b-4429-bb9a-059c3457e748",
+        "signo": "guarniciones",
+        "foto": "https://github.com/user-attachments/assets/bd468207-caa2-482c-bfbe-229e0f7c342f",
         "fotos": ["Chile-1.jpg","Chile-2.jpg","Chile-3.jpg"],
         "github": "https://github.com/valesawady"
     },
     {
-        "nombre": "Pollo",
-        "descripcion": "Creado en colaboración con Paula Claros, Josefina Rojas, Francisca Valenzuela, Josefina Santibáñez, Manuela Münchmeyer y Sol Richards, este afiche, inspirado en las ideas de José Duarte, presenta una visualización de datos tanto en formato digital como análogo. El diseño busca hacer los datos más accesibles y comprensibles, promoviendo la democratización de la información y su relevancia en la comprensión del entorno.",
+        "nombre": "Sauerkraut",
+        "descripcion": "Ingredientes:\n\n1 repollo\nSal gruesa\nAgua hervida y enfriada\n\nElaboración:\n\nLimpiar el repollo, retirar las hojas exteriores y cortar en tiras finas. Pesar el repollo y calcular el 2% de su peso en sal. Masajear el repollo con la sal y dejar reposar 6 horas. Si no queda cubierto de líquido, añadir agua hervida y enfriada. Colocar peso sobre el repollo, cubrir y dejar fermentar al menos dos semanas en un lugar fresco y seco (18-20°C).",
         "fecha": "2024",
-        "signo": "Sin Gluten",
-        "foto": "https://github.com/user-attachments/assets/2355ff10-7184-4a54-a990-9119ae006551",
+        "signo": "guarniciones",
+        "foto": "https://github.com/user-attachments/assets/7ef300aa-1243-42d6-b24d-57c191e2c3da",
         "fotos": ["Datos-1.jpg","Datos-2.jpg","Datos-3.jpg"],
         "github": "https://github.com/valesawady"
     },
     {
-        "nombre": "Quiche",
-        "descripcion": "En el Service Design Challenge, participamos en el desafío de Philips titulado How to turn the tide on fragmented healthcare experience. Junto a mi equipo, Equita, abordamos este reto enfocado en la mejora del acceso y la calidad de la atención ginecológica en Chile. Diseñamos una plataforma digital integral que conecta a pacientes y profesionales, optimizando el tiempo de consulta y mejorando la experiencia de atención médica con empatía y apoyo continuo.",
-        "fecha": "2024",
-        "signo": "Vegetariana",
-        "foto": "https://github.com/user-attachments/assets/0d695a46-5f53-42c8-aeed-c6f5ece49fd5",
-        "fotos": ["Equita-1.jpg","Equita-2.jpg","Equita-3.jpg"],
+        "nombre": "Käsekuchen",
+        "descripcion": "Ingredientes para la base:\n\n200 g de galletas\nRalladura de naranja o limón\n2-3 cucharadas de mermelada de frutos rojos\nLeche (o 100 g de mantequilla derretida)\n\nIngredientes para el relleno:\n\n600 g de queso quark\n1 huevo L\n120-150 g de azúcar\n1/2 cucharadita de sal\n2 paquetes de mezcla de pudding de vainilla\n500 ml de leche fría\nFrutos rojos\n\nElaboración:\n\nMezclar los sobres de pudding con azúcar y leche. Calentar el resto de la leche y añadir la mezcla hasta espesar. Enfriar. Precalentar el horno a 175°C. Triturar galletas y mezclar con ralladura, mermelada y leche. Presionar en el molde. Añadir quark, huevo, sal y la mezcla fría, batir y llenar el molde. Decorar con frutos rojos. Hornear 80-90 min. Enfriar antes de desmoldar.",
+        "fecha": "2023",
+        "signo": "postres",
+        "foto": "https://github.com/user-attachments/assets/fcb634be-bc6f-4cca-bb02-e15e3b6fb1a2",
+        "fotos": ["Churu-1.jpg","Churu-2.jpg","Churu-3.jpg"],
         "github": "https://github.com/valesawady"
     },
     {
-        "nombre": "Smothie Bowl",
-        "descripcion": "Este proyecto propone el uso de Shrilk, un material polimérico biodegradable, como solución para reducir el impacto ambiental del empaque. El diseño se enfoca en la seguridad alimentaria, cumpliendo con normas de etiquetado y ambientales. Además, se destaca por ser un material de bajo costo, resistente a la humedad, y fácil de moldear, lo que permite una aplicación eficiente en el empaque de productos alimenticios.",
-        "fecha": "2023",
-        "signo": "Vegana",
-        "foto": "https://github.com/user-attachments/assets/75e7dd93-0a4d-4904-b540-e494e4ffa5b7",
-        "fotos": ["Churu-1.jpg","Churu-2.jpg","Churu-3.jpg"],
+        "nombre": "Stollen",
+        "descripcion": "Ingredientes:\n\n170 g de pasas\n170 g de frutas confitadas\n60 ml de coñac o ron\n100 ml de zumo de naranja\n65 g de harina para prefermento\n115 ml de leche para prefermento\n7 g de levadura seca\n300 g de harina\n15 g de azúcar\n4 g de sal\nRalladura de naranja o limón\nCanela, nuez moscada, 1 huevo L\n70 g de mantequilla, más para pincelar\n60 g de agua\n50 g de almendra\nAzúcar glasé\n\nElaboración:\n\nMacerar frutas en licor 12 h. Preparar prefermento con leche, harina y levadura. Amasar harina, azúcar, ralladuras, especias, fermento, huevo y mantequilla, añadiendo agua. Incorporar las frutas y amasar. Levar 1 h. Formar hogaza con almendras. Levar 1 h y hornear a 175°C por 50 min. Pintar con mantequilla caliente y espolvorear azúcar glasé.",
+        "fecha": "2024",
+        "signo": "postres",
+        "foto": "https://github.com/user-attachments/assets/73a716f3-122b-4470-ac5c-5d6a391a9322",
+        "fotos": ["French-1.jpg","French-2.jpg","French-1.jpg"],
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "Königskuchen",
+        "descripcion": "Ingredientes:\n\n220 g de mantequilla salada\n120 g de azúcar\n4 huevos L\nRalladura de limón o naranja\n200 g de harina\n100 g de maizena\n2 cditas de levadura química\n5 ml de esencia de vainilla\n60 ml de ron o zumo\nFrutas confitadas\n100 g de pasas de corinto\nGuindas y almendras\n\nElaboración:\n\nMezclar frutas confitadas y pasas con ron. Precalentar el horno a 170°C. Batir la mantequilla con azúcar hasta obtener una mezcla cremosa. Añadir los huevos uno a uno. Incorporar las harinas y la levadura, seguido de las frutas y el ron. Verter en un molde y cubrir con almendras y guindas. Hornear 50-55 min. Enfriar antes de desmoldar.",
+        "fecha": "2024",
+        "signo": "postres",
+        "foto": "https://github.com/user-attachments/assets/8e0e69e1-1a7f-4e8c-a1c7-ea80a02da355",
+        "fotos": ["French-1.jpg","French-2.jpg","French-1.jpg"],
         "github": "https://github.com/valesawady"
     }
 ]
