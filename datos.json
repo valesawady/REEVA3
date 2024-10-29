@@ -1,7 +1,18 @@
 [
     {
         "nombre": "Brezel",
-        "descripcion": "Ingredientes:\n\n500 g harina\n10 g sal\n1 cdita. azúcar\n1 sobre levadura seca\n250 ml agua tibia\n30 g mantequilla\n1 litro de agua\n3 cdas. bicarbonato de sodio\nSal gruesa\n\nInstrucciones:\n\nMezcla harina, sal, azúcar y levadura. Agrega agua y mantequilla, amasa. Deja reposar 30-40 min.\n\nForma cuerdas de masa, haz lazos de pretzel.\n\nHierve agua con bicarbonato. Sumerge cada pretzel 20-30 seg.\n\nHornea a 220°C por 15-20 min.",
+        "ingredientes": [
+            "500 g harina",
+            "10 g sal",
+            "n1 cdita. azúcar",
+            "1 sobre levadura seca",
+            "250 ml agua tibia",
+            "30 g mantequilla",
+            "1 litro de agua",
+            "3 cdas. bicarbonato de sodio",
+            "Sal gruesa"
+        ],
+         "elaboracion":"Para preparar los bretzels, mezcla la harina, la sal, el azúcar y la levadura. Agrega el agua y la mantequilla, y amasa hasta obtener una masa suave. Deja reposar durante 30-40 minutos. Forma cuerdas con la masa y haz los lazos de pretzel. Hierve agua con bicarbonato y sumerge cada pretzel durante 20-30 segundos. Finalmente, hornea a 220°C durante 15-20 minutos.",
         "fecha": "2024",
         "signo": "aperitivos",
         "foto": "https://github.com/user-attachments/assets/62e3ff7f-43d4-43f7-a456-f9f7bc3cd04f",
@@ -10,7 +21,17 @@
     },
     {
         "nombre": "Kartoffelsalat",
-        "descripcion": "Ingredientes:\n\n600 g de patatas\n75 g de cebolla\n80 g de pepinillos\n120 g de salchichas cocidas\nEneldo fresco\nCebollino fresco\n100 g de mayonesa\n1 cdita. de mostaza\n2-3 cdas. de líquido de pepinillos\n\nInstrucciones:\n\nCocina las patatas sin pelar y escurre. Pica cebolla, pepinillos y salchichas. Mezcla mayonesa, mostaza, eneldo picado y líquido de pepinillos. Pela y corta las patatas. Combina con los demás ingredientes y aliño. Refrigera 1 hora y sirve fría decorada con cebollino.",        
+        "ingredientes": [
+            "600 g de patatas",
+            "75 g de cebolla",
+            "80 g de pepinillos",
+            "120 g de salchichas cocidas",
+            "Eneldo y cebollino fresco",
+            "100 g de mayonesa",
+            "1 cdita. de mostaza",
+            "2-3 cdas. de líquido de pepinillos"
+        ],
+        "elaboracion": "Para preparar el Kartoffelsalat, cocina las patatas sin pelar y escurre. Mientras tanto, pica la cebolla, los pepinillos y las salchichas. Mezcla la mayonesa, la mostaza, el eneldo picado y un poco del líquido de los pepinillos. Pela y corta las patatas, y combínalas con los demás ingredientes y el aliño. Refrigera durante una hora y sirve frío, decorado con cebollino.",
         "fecha": "2024",
         "signo": "guarniciones",
         "foto": "https://github.com/user-attachments/assets/36268a97-29b8-4426-b39f-72c55be914a0",
@@ -19,7 +40,18 @@
     },
     {
         "nombre": "Rindergulasch",
-        "descripcion": "Ingredientes:\n\n600 g de carne de ternera para guisar\n30 g de harina\n30 ml de aceite de oliva\n1 cebolla\n330 ml de cerveza rubia alemana\n20 g de azúcar moreno\n15 g de tomate concentrado\n500 ml de caldo de carne\nSal y pimienta negra\n\nElaboración:\n\nCorta la carne en dados, salpimenta y espolvorea con harina. Calienta el aceite en una sartén y dora la carne. Retira la carne y reserva. Dora la cebolla picada y luego agrega la carne y la cebolla en una fuente para horno. Precalienta el horno a 170°C. En una olla, mezcla la cerveza, el azúcar moreno, el concentrado de tomate y el caldo. Lleva a ebullición, vierte sobre la carne y hornea durante dos horas o hasta que esté tierna al pincharla.",
+        "ingredientes": [
+            "600 g de carne de ternera para guisar",
+            "30 g de harina",
+            "30 ml de aceite de oliva",
+            "1 cebolla",
+            "330 ml de cerveza rubia alemana",
+            "20 g de azúcar moreno",
+            "15 g de tomate concentrado",
+            "500 ml de caldo de carne",
+            "Sal y pimienta negra"
+        ],
+        "elaboracion":"Para preparar el Rindergulasch, corta la carne en dados, salpimiéntala y espolvorea con harina. Calienta aceite en una sartén y dora la carne. Retírala y reserva. En la misma sartén, dora la cebolla picada. Luego, coloca la carne y la cebolla en una fuente para horno. Precalienta el horno a 170°C. En una olla, mezcla la cerveza, el azúcar moreno, el concentrado de tomate y el caldo, llevando a ebullición. Vierte esta mezcla sobre la carne y hornea durante dos horas o hasta que esté tierna al pincharla.",
         "fecha": "2024",
         "signo": "principal",
         "foto": "https://github.com/user-attachments/assets/9be464e4-4317-4da9-b8da-608bb8e1ca94",
@@ -28,7 +60,20 @@
     },
     {
         "nombre": "Currywurst",
-        "descripcion": "Ingredientes para 2 personas:\n\n1 cebolla pequeña\n1 diente de ajo\n250 g de tomate troceado natural\nUn poco de azúcar\n25 g de puré de manzana o manzana rallada\n2 ml de vinagre de manzana\n1 cucharadita de mostaza\n1 cucharadita o más de curry molido\nSal\nPimienta\nAceite de oliva\n4 salchichas bratwurst\n\nElaboración:\n\nPicar la cebolla y el diente de ajo. Calentar aceite de oliva en una sartén y sofreír ambos. Añadir el tomate con azúcar y dejar reducir. Incorporar puré y vinagre de manzana, mostaza y curry. Salpimentar y cocinar a fuego suave hasta reducir. Triturar la salsa y devolverla a la sartén para espesar. Mientras, cocinar las salchichas a fuego medio en una plancha. Rectificar de sal y azúcar la salsa y servir.",
+        "ingredientes": [
+            "1 cebolla pequeña",
+            "1 diente de ajo",
+            "250 g de tomate troceado natural",
+            "Un poco de azúcar",
+            "25 g de puré de manzana o manzana rallada",
+            "2 ml de vinagre de manzana",
+            "1 cucharadita de mostaza",
+            "1 cucharadita o más de curry molido",
+            "Sal y pimienta",
+            "Aceite de oliva"
+            "4 salchichas bratwurst"
+        ],
+        "elaboracion":"Para preparar el currywurst, comienza picando la cebolla y el diente de ajo. Calienta aceite de oliva en una sartén y sofríelos. Luego, añade el tomate junto con el azúcar y deja reducir. Incorpora el puré de tomate, el vinagre de manzana, la mostaza y el curry. Salpimienta al gusto y cocina a fuego suave hasta que la salsa espese. Tritura la salsa y devuélvela a la sartén para espesar un poco más. Mientras tanto, cocina las salchichas a fuego medio en una plancha. Ajusta el punto de sal y azúcar en la salsa y sirve las salchichas con ella.",
         "fecha": "2024",
         "signo": "aperitivos",
         "foto": "https://github.com/user-attachments/assets/2cfd7cc6-11b7-4424-bf86-725dda5a8da9",
@@ -37,7 +82,17 @@
     },
     {
         "nombre": "Schwarzwaldtorte",
-        "descripcion": "Ingredientes:\n\n4 huevos\n150 g de azúcar\n100 g de harina\n50 g de cacao en polvo\n500 ml de nata para montar\n200 g de cerezas en almíbar\n50 ml de licor de cereza\n100 g de chocolate rallado\n\nElaboración:\n\nBatir huevos con azúcar. Añadir harina y cacao, mezclar. Hornear a 180°C por 25-30 min.\n\nMontar la nata. Cortar el bizcocho, humedecer con licor, rellenar con nata y cerezas. Cubrir con más nata y decorar con chocolate rallado.",
+        "ingredientes": [
+            "4 huevos",
+            "150 g de azúcar",
+            "100 g de harina",
+            "50 g de cacao en polvo",
+            "500 ml de nata para montar",
+            "200 g de cerezas en almíbar",
+            "50 ml de licor de cereza",
+            "100 g de chocolate rallado"
+        ],
+        "elaboracion": "Para preparar la Schwarzwaldtorte, bate los huevos con el azúcar hasta que estén esponjosos, luego añade la harina y el cacao. Hornea a 180°C durante 25-30 minutos y deja enfriar. Monta la nata y corta el bizcocho en capas, humedeciéndolas con el licor. Rellena con nata y cerezas, cubre con más nata y decora con chocolate rallado.",
         "fecha": "2022",
         "signo": "postres",
         "foto": "https://github.com/user-attachments/assets/00f7925e-c916-4603-8f67-c8305e38733e",
@@ -46,7 +101,19 @@
     },
     {
         "nombre": "Quarkins",
-        "descripcion": "Ingredientes:\n\n4 huevos M\n200 g de queso quark no desnatado escurrido\n10 g de azúcar vainillado\n50 g de azúcar\n30 ml de agua\n250 g de harina\n2 cucharaditas de levadura química\n1 pizca de sal\nAceite para freír\nAzúcar y canela para rebozar\n\nElaboración:\n\nColocar en un recipiente los huevos, el azúcar vainillado, el azúcar y el agua. Batir hasta obtener una mezcla cremosa. Añadir el queso y batir. Incorporar la harina tamizada con levadura y sal, batiendo ligeramente. Calentar aceite a 170°C. Freír pequeñas porciones con dos cucharillas. Dejar escurrir sobre papel de cocina y rebozar en azúcar con canela.",       
+        "ingredientes": [
+            "4 huevos M",
+            "200 g de queso quark no desnatado escurrido",
+            "10 g de azúcar vainillado",
+            "50 g de azúcar",
+            "30 ml de agua",
+            "250 g de harina",
+            "2 cucharaditas de levadura química",
+            "1 pizca de sal",
+            "Aceite para freír"
+            "Azúcar y canela para rebozar"
+        ],
+        "elaboracion": "Para preparar los quarkins, mezcla en un recipiente los huevos, el azúcar vainillado, el azúcar y el agua, batiendo hasta que esté cremoso. Añade el queso y mezcla bien. Luego, incorpora la harina tamizada con la levadura y la sal, batiendo suavemente. Calienta el aceite a 170°C y fríe pequeñas porciones de masa usando dos cucharillas. Escurre sobre papel de cocina y reboza en azúcar con canela.",
         "fecha": "2023",
         "signo": "postres",
         "foto": "https://github.com/user-attachments/assets/1ea00467-6f0b-4a7e-a276-7281c3cec57a",
@@ -55,7 +122,21 @@
     },
     {
         "nombre": "Berliner",
-        "descripcion": "Ingredientes:\n\n50 ml de leche tibia\n20 g de levadura fresca\n250 g de harina de fuerza\n1 huevo\n1 yema\n25 g de azúcar\n2 ml de esencia de vainilla\n1 pizca de sal\n25 g de mantequilla blanda\nAceite para freír\nMermelada al gusto\nAzúcar glasé o granulado\n\nElaboración:\n\nDeshacer la levadura en la leche tibia, añadir 75 g de harina y reposar 20-30 min. Batir el huevo, la yema, azúcar, vainilla y sal, añadir la mantequilla y la masa de levadura. Amasar y dejar levar. Formar bolas, reposar 30 min. Freír a 160-170°C. Rellenar con mermelada y espolvorear con azúcar.",
+        "ingredientes": [
+            "50 ml de leche tibia",
+            "20 g de levadura fresca",
+            "250 g de harina de fuerza",
+            "1 huevo",
+            "1 yema",
+            "25 g de azúcar",
+            "2 ml de esencia de vainilla"
+            "1 pizca de sal",
+            "25 g de mantequilla blanda",
+            "Aceite para freír",
+            "Mermelada al gusto",
+            "Azúcar glasé o granulado"
+        ],
+        "elaboracion": "Para preparar los berliner, disuelve la levadura en la leche tibia, añade 75 g de harina y deja reposar la mezcla durante 20-30 minutos. Aparte, bate el huevo, la yema, el azúcar, la vainilla y la sal. Luego, incorpora la mantequilla y la masa de levadura. Amasa bien y deja que la masa leve hasta que duplique su tamaño. Forma bolas con la masa y déjalas reposar durante 30 minutos. Fríelas en aceite caliente a 160-170°C hasta que estén doradas. Finalmente, rellena con mermelada y espolvorea con azúcar.",
         "fecha": "2022",
         "signo": "postres",
         "foto": "https://github.com/user-attachments/assets/cfd0ebde-1e4d-417d-b91e-47e52b634bd1",
@@ -64,7 +145,14 @@
     },
     {
         "nombre": "Wildschweinkopfsalat",
-        "descripcion": "Ingredientes:\n\n100 g de cabeza de jabalí (morros de cerdo)\n1/4 de cebolla\nAceite de oliva virgen extra\nVinagre\nPistachos\n\nElaboración:\n\nCortar la cabeza de jabalí en lonjas. Cortar la cebolla en juliana fina y colocarla sobre los tacos. Aliñar con aceite de oliva y vinagre al gusto. Añadir pistachos para decorar.",
+        "ingredientes": [
+            "100 g de cabeza de jabalí (morros de cerdo)",
+            "1/4 de cebolla",
+            "Aceite de oliva virgen extra",
+            "Vinagre",
+            "Pistachos",
+        ],
+        "elaboracion": "Para preparar la ensalada de cabeza de jabalí, corta la carne en finas lonjas. Luego, corta la cebolla en juliana y colócala sobre las lonjas. Aliña la ensalada con aceite de oliva y vinagre al gusto, y decora con pistachos para darle un toque final.",
         "fecha": "2022",
         "signo": "guarniciones",
         "foto": "https://github.com/user-attachments/assets/bd468207-caa2-482c-bfbe-229e0f7c342f",
@@ -73,7 +161,12 @@
     },
     {
         "nombre": "Sauerkraut",
-        "descripcion": "Ingredientes:\n\n1 repollo\nSal gruesa\nAgua hervida y enfriada\n\nElaboración:\n\nLimpiar el repollo, retirar las hojas exteriores y cortar en tiras finas. Pesar el repollo y calcular el 2% de su peso en sal. Masajear el repollo con la sal y dejar reposar 6 horas. Si no queda cubierto de líquido, añadir agua hervida y enfriada. Colocar peso sobre el repollo, cubrir y dejar fermentar al menos dos semanas en un lugar fresco y seco (18-20°C).",
+        "ingredientes": [
+            "1 repollo",
+            "Sal gruesa",
+            "Agua hervida y enfriada",
+        ],
+        "elaboracion": "Para preparar el sauerkraut, limpia el repollo, retira las hojas exteriores y córtalo en tiras finas. Pesa el repollo y calcula el 2% de su peso en sal. Masajea el repollo con la sal y déjalo reposar durante 6 horas. Si no queda cubierto de su propio líquido, añade agua hervida y enfriada. Coloca un peso sobre el repollo, cúbrelo y deja que fermente al menos dos semanas en un lugar fresco y seco, entre 18 y 20°C.", 
         "fecha": "2024",
         "signo": "guarniciones",
         "foto": "https://github.com/user-attachments/assets/7ef300aa-1243-42d6-b24d-57c191e2c3da",
@@ -82,7 +175,20 @@
     },
     {
         "nombre": "Käsekuchen",
-        "descripcion": "Ingredientes para la base:\n\n200 g de galletas\nRalladura de naranja o limón\n2-3 cucharadas de mermelada de frutos rojos\nLeche (o 100 g de mantequilla derretida)\n\nIngredientes para el relleno:\n\n600 g de queso quark\n1 huevo L\n120-150 g de azúcar\n1/2 cucharadita de sal\n2 paquetes de mezcla de pudding de vainilla\n500 ml de leche fría\nFrutos rojos\n\nElaboración:\n\nMezclar los sobres de pudding con azúcar y leche. Calentar el resto de la leche y añadir la mezcla hasta espesar. Enfriar. Precalentar el horno a 175°C. Triturar galletas y mezclar con ralladura, mermelada y leche. Presionar en el molde. Añadir quark, huevo, sal y la mezcla fría, batir y llenar el molde. Decorar con frutos rojos. Hornear 80-90 min. Enfriar antes de desmoldar.",
+        "ingredientes": [
+            "200 g de galletas",
+            "Ralladura de naranja o limón",
+            "2-3 cucharadas de mermelada de frutos rojos",
+            "Leche (o 100 g de mantequilla derretida)",
+            "600 g de queso quark",
+            "1 huevo L",
+            "120-150 g de azúcar",
+            "1/2 cucharadita de sal",
+            "2 paquetes de mezcla de pudding de vainilla",
+            "500 ml de leche fría",
+            "Frutos rojos"
+        ],
+        "elaboracion": "Para preparar el Käsekuchen, comienza mezclando los sobres de pudding con azúcar y un poco de leche. Calienta el resto de la leche y añade la mezcla anterior, removiendo hasta que espese. Luego, deja enfriar. Precalienta el horno a 175°C. Tritura las galletas y mézclalas con ralladura de limón, mermelada y un poco de leche, presionando la mezcla en el fondo de un molde para formar la base. A continuación, bate el quark, el huevo, la sal y la mezcla de pudding enfriada. Vierte esta mezcla en el molde sobre la base de galletas y decora con frutos rojos. Hornea durante 80-90 minutos y deja enfriar completamente antes de desmoldar.",
         "fecha": "2023",
         "signo": "postres",
         "foto": "https://github.com/user-attachments/assets/fcb634be-bc6f-4cca-bb02-e15e3b6fb1a2",
@@ -91,7 +197,26 @@
     },
     {
         "nombre": "Stollen",
-        "descripcion": "Ingredientes:\n\n170 g de pasas\n170 g de frutas confitadas\n60 ml de coñac o ron\n100 ml de zumo de naranja\n65 g de harina para prefermento\n115 ml de leche para prefermento\n7 g de levadura seca\n300 g de harina\n15 g de azúcar\n4 g de sal\nRalladura de naranja o limón\nCanela, nuez moscada, 1 huevo L\n70 g de mantequilla, más para pincelar\n60 g de agua\n50 g de almendra\nAzúcar glasé\n\nElaboración:\n\nMacerar frutas en licor 12 h. Preparar prefermento con leche, harina y levadura. Amasar harina, azúcar, ralladuras, especias, fermento, huevo y mantequilla, añadiendo agua. Incorporar las frutas y amasar. Levar 1 h. Formar hogaza con almendras. Levar 1 h y hornear a 175°C por 50 min. Pintar con mantequilla caliente y espolvorear azúcar glasé.",
+        "ingredientes": [
+            "170 g de pasas",
+            "170 g de frutas confitadas",
+            "60 ml de coñac o ron",
+            "100 ml de zumo de naranja",
+            "65 g de harina para prefermento",
+            "115 ml de leche para prefermento",
+            "7 g de levadura seca",
+            "300 g de harina",
+            "15 g de azúcar",
+            "4 g de sal",
+            "Ralladura de naranja o limón",
+            "Canela y nuez moscada",
+            "1 huevo L",
+            "70 g de mantequilla, más para pincelar",
+            "60 g de agua",
+            "50 g de almendra",
+            "Azúcar glasé"
+            ],
+        "elaboracion": "Para preparar el Stollen, macera las frutas en licor durante 12 horas. Prepara un prefermento con leche, harina y levadura. Luego, amasa la harina con azúcar, ralladuras, especias, el prefermento, huevo y mantequilla, añadiendo agua según sea necesario. Incorpora las frutas maceradas y sigue amasando. Deja levar 1 hora, forma una hogaza con almendras y deja levar otra hora. Hornea a 175°C durante 50 minutos. Finalmente, pinta con mantequilla caliente y espolvorea azúcar glasé.",
         "fecha": "2024",
         "signo": "postres",
         "foto": "https://github.com/user-attachments/assets/73a716f3-122b-4470-ac5c-5d6a391a9322",
@@ -100,7 +225,21 @@
     },
     {
         "nombre": "Königskuchen",
-        "descripcion": "Ingredientes:\n\n220 g de mantequilla salada\n120 g de azúcar\n4 huevos L\nRalladura de limón o naranja\n200 g de harina\n100 g de maizena\n2 cditas de levadura química\n5 ml de esencia de vainilla\n60 ml de ron o zumo\nFrutas confitadas\n100 g de pasas de corinto\nGuindas y almendras\n\nElaboración:\n\nMezclar frutas confitadas y pasas con ron. Precalentar el horno a 170°C. Batir la mantequilla con azúcar hasta obtener una mezcla cremosa. Añadir los huevos uno a uno. Incorporar las harinas y la levadura, seguido de las frutas y el ron. Verter en un molde y cubrir con almendras y guindas. Hornear 50-55 min. Enfriar antes de desmoldar.",
+        "ingredientes": [
+            "220 g de mantequilla salada",
+            "120 g de azúcar",
+            "4 huevos L",
+            "Ralladura de limón o naranja",
+            "200 g de harina",
+            "100 g de maizena",
+            "2 cditas de levadura química",
+            "5 ml de esencia de vainilla",
+            "60 ml de ron",
+            "Fruta confitada",
+            "100 g de pasas de corinto",
+            "Guindas y almendras"
+        ],
+        "elaboracion": "Para preparar el Königskuchen, mezcla las frutas confitadas y pasas con el ron. Precalienta el horno a 170°C. Bate la mantequilla con el azúcar hasta obtener una textura cremosa, luego añade los huevos uno a uno. Incorpora las harinas, la levadura, las frutas y el ron. Vierte la mezcla en un molde y cubre con almendras y guindas. Hornea durante 50-55 minutos y deja enfriar antes de desmoldar.",
         "fecha": "2024",
         "signo": "postres",
         "foto": "https://github.com/user-attachments/assets/8e0e69e1-1a7f-4e8c-a1c7-ea80a02da355",

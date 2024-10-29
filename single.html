@@ -88,7 +88,11 @@
                             principal.innerHTML += `
                             <h2 class"mt-4"><p class="text-white">${data[x].nombre}</h2>
                             <p class="text-white">${data[x].fecha}</p>
-                            <p class="text-white">${data[x].descripcion}</p>
+                            <h3 class="text-white">Ingredientes:</h3>
+                            <ul class="text-white">${data[x].ingredientes.map(ingrediente => `<li>${ingrediente}</li>`).join('')}</ul>
+
+    <h3 class="text-white">Elaboración:</h3>
+    <p class="text-white">${data[x].elaboracion}</p>
 
                             <div id="carouselExample" class="carousel slide">
   <div class="carousel-inner">
