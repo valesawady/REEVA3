@@ -5,16 +5,16 @@
         "fecha": "2024",
         "signo": "aperitivos",
         "foto": "https://github.com/user-attachments/assets/62e3ff7f-43d4-43f7-a456-f9f7bc3cd04f",
-        "fotos": ["Brezel-0.jpg","Brezel-1.jpg","Brezel-2.jpg"],
+        "fotos": ["Brezel-0.jpg","Brezel-1.jpg","Brezel-2.jpg","Brezel-3.jpg"],
         "github": "https://github.com/valesawady"
     },
     {
         "nombre": "Kartoffelsalat",
-        "descripcion": "Ingredientes:\n\n1 kg de papas\n100 g de tocino\n1 cebolla mediana\n150 ml de caldo de pollo\n3 cdas. de vinagre\n2 cdas. de mostaza\nSal y pimienta al gusto\nCebollino picado\n\nInstrucciones:\n\nCuece las papas con cáscara hasta que estén tiernas. Pela y corta en rodajas.\n\nFríe el tocino hasta que esté crujiente. Retira y reserva.\n\nEn la misma sartén, sofríe la cebolla picada hasta que esté transparente.\n\nAgrega el caldo de pollo, vinagre y mostaza. Cocina por 5 minutos.\n\nMezcla las papas con el tocino y vierte la salsa caliente encima. Añade sal, pimienta y cebollino.\n\nSirve caliente o frío.",        
+        "descripcion": "Ingredientes:\n\n600 g de patatas\n75 g de cebolla\n80 g de pepinillos\n120 g de salchichas cocidas\nEneldo fresco\nCebollino fresco\n100 g de mayonesa\n1 cdita. de mostaza\n2-3 cdas. de líquido de pepinillos\n\nInstrucciones:\n\nCocina las patatas sin pelar y escurre. Pica cebolla, pepinillos y salchichas. Mezcla mayonesa, mostaza, eneldo picado y líquido de pepinillos. Pela y corta las patatas. Combina con los demás ingredientes y aliño. Refrigera 1 hora y sirve fría decorada con cebollino.",        
         "fecha": "2024",
         "signo": "guarniciones",
         "foto": "https://github.com/user-attachments/assets/36268a97-29b8-4426-b39f-72c55be914a0",
-        "fotos": ["Kartoffel-0.jpg","Kartoffel-1.jpg","Kartoffel-2.jpg"],
+        "fotos": ["Kartoffel-0.jpg","Kartoffel-1.jpg","Kartoffel-2.jpg","Kartoffel-3.jpg"],
         "github": "https://github.com/valesawady"
     },
     {
@@ -23,7 +23,7 @@
         "fecha": "2024",
         "signo": "principal",
         "foto": "https://github.com/user-attachments/assets/9be464e4-4317-4da9-b8da-608bb8e1ca94",
-        "fotos": ["Gulasch-0.jpg","Gulasch-1.jpg","Gulasch-2.jpg"],
+        "fotos": ["Gulasch-0.jpg","Gulasch-1.jpg","Gulasch-2.jpg","Gulasch-3.jpg"],
         "github": "https://github.com/valesawady"
     },
     {
@@ -32,7 +32,7 @@
         "fecha": "2024",
         "signo": "aperitivos",
         "foto": "https://github.com/user-attachments/assets/2cfd7cc6-11b7-4424-bf86-725dda5a8da9",
-        "fotos": ["Curry-0.jpg","Curry-1.jpg","Curry-2.jpg"],
+        "fotos": ["Curry-0.jpg","Curry-1.jpg","Curry-2.jpg","Curry-3.jpg"],
         "github": "https://github.com/valesawady"
     },
     {
@@ -40,8 +40,8 @@
         "descripcion": "Ingredientes:\n\n4 huevos\n150 g de azúcar\n100 g de harina\n50 g de cacao en polvo\n500 ml de nata para montar\n200 g de cerezas en almíbar\n50 ml de licor de cereza\n100 g de chocolate rallado\n\nElaboración:\n\nBatir huevos con azúcar. Añadir harina y cacao, mezclar. Hornear a 180°C por 25-30 min.\n\nMontar la nata. Cortar el bizcocho, humedecer con licor, rellenar con nata y cerezas. Cubrir con más nata y decorar con chocolate rallado.",
         "fecha": "2022",
         "signo": "postres",
-        "foto": "https://github.com/user-attachments/assets/29937ab0-5986-46ed-bcfe-b39240e758f5",
-        "fotos": ["Torte-0.jpg","Torte-1.jpg","Torte-2.jpg"],
+        "foto": "https://github.com/user-attachments/assets/00f7925e-c916-4603-8f67-c8305e38733e",
+        "fotos": ["Torte-0.jpg","Torte-1.jpg","Torte-2.jpg","Torte-3.jpg"],
         "github": "https://github.com/valesawady"
     },
     {
@@ -59,7 +59,7 @@
         "fecha": "2022",
         "signo": "postres",
         "foto": "https://github.com/user-attachments/assets/cfd0ebde-1e4d-417d-b91e-47e52b634bd1",
-        "fotos": ["Berliner-0.jpg","Berliner-1.jpg","Berliner-2.jpg"],
+        "fotos": ["Berliner-0.jpg","Berliner-1.jpg","Berliner-2.jpg","Berliner-3.jpg"],
         "github": "https://github.com/valesawady"
     },
     {
@@ -68,7 +68,7 @@
         "fecha": "2022",
         "signo": "guarniciones",
         "foto": "https://github.com/user-attachments/assets/bd468207-caa2-482c-bfbe-229e0f7c342f",
-        "fotos": ["Chile-1.jpg","Chile-2.jpg","Chile-3.jpg"],
+        "fotos": ["Wild-0.jpg","Wild-1.jpg","Wild-2.jpg","Wild-3.jpg"],
         "github": "https://github.com/valesawady"
     },
     {
@@ -77,7 +77,7 @@
         "fecha": "2024",
         "signo": "guarniciones",
         "foto": "https://github.com/user-attachments/assets/7ef300aa-1243-42d6-b24d-57c191e2c3da",
-        "fotos": ["Sauerkraut-0.jpg","Sauerkraut-1.jpg","Sauerkraut-2.jpg"],
+        "fotos": ["Sauerkraut-0.jpg","Sauerkraut-1.jpg","Sauerkraut-2.jpg","Sauerkraut-3.jpg"],
         "github": "https://github.com/valesawady"
     },
     {
@@ -86,7 +86,7 @@
         "fecha": "2023",
         "signo": "postres",
         "foto": "https://github.com/user-attachments/assets/fcb634be-bc6f-4cca-bb02-e15e3b6fb1a2",
-        "fotos": ["Kase-0.jpg","Kase-1.jpg","Kase-2.jpg"],
+        "fotos": ["Kase-0.jpg","Kase-1.jpg","Kase-2.jpg","Kase-3.jpg"],
         "github": "https://github.com/valesawady"
     },
     {
@@ -95,7 +95,7 @@
         "fecha": "2024",
         "signo": "postres",
         "foto": "https://github.com/user-attachments/assets/73a716f3-122b-4470-ac5c-5d6a391a9322",
-        "fotos": ["Stollen-0.jpg","Stollen-1.jpg","Stollen-2.jpg"],
+        "fotos": ["Stollen-0.jpg","Stollen-1.jpg","Stollen-2.jpg","Stollen-3.jpg"],
         "github": "https://github.com/valesawady"
     },
     {
@@ -104,7 +104,7 @@
         "fecha": "2024",
         "signo": "postres",
         "foto": "https://github.com/user-attachments/assets/8e0e69e1-1a7f-4e8c-a1c7-ea80a02da355",
-        "fotos": ["kuchen-0.jpg","kuchen-1.jpg","kuchen-2.jpg"],
+        "fotos": ["Kuchen-0.jpg","Kuchen-1.jpg","Kuchen-2.jpg","Kuchen-3.jpg"],
         "github": "https://github.com/valesawady"
     }
 ]
